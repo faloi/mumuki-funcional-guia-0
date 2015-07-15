@@ -1,4 +1,4 @@
-Estamos aprendiendo sobre el paradigma **funnnnnn**cional... ¡adiviná cual es otro elemento fundamental del paradigma! ¡Las funciones!
+Estamos aprendiendo sobre el paradigma **funnnnnn**cional... ¡adiviná cuál es otro elemento fundamental del paradigma! ¡Las funciones!
 
 La idea es simple: una función es una **caja negra**, a la que entra algo, y de la que sale otra cosa:
 
