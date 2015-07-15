@@ -14,8 +14,8 @@ edadErnesto = edadAnalia
 
 Irónicamente, una vez que le damos un valor a una variable, no podemos luego darle otro. Es decir **las variables no varían su valor** (por eso a veces se les dice _constantes_).
 
-Ah, algo más: es importante que el nombre de la variable sea _expresivo_, es decir, que de una buena idea sobre lo que representa esa variables. Por ejemplo, si una variable representa cuanto dinero tiene Ana, no la llames `din`, `numerito`, `x` o `ana`; llamala, por ejemplo `patrimonioAna` :sunglasses:
+Ah, algo más: es importante que el nombre de la variable sea _expresivo_, es decir, que de una buena idea sobre lo que representa esa variable. Por ejemplo, si una variable representa cuánto dinero tiene Ana, no la llames `din`, `numerito`, `x` o `ana`; llamala, por ejemplo `patrimonioAna` :sunglasses:
 
-> Ahora te toca a vos: declará (dale un valor) la variable `cantidadRuedasBicicleta`. También declará la variable `cantidadRuedasMoto`, que tiene la misma cantidad de ruedas de la bicicleta.
+> Ahora te toca a vos: declará (dale un valor) la variable `cantidadRuedasBicicleta`. También declará la variable `cantidadRuedasMoto`, que tiene la misma cantidad de ruedas que la bicicleta.
 
 
